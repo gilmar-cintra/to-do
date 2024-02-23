@@ -29,6 +29,7 @@
                 </template>
                 <template #append>
                   <v-icon>mdi-pencil</v-icon>
+                  <v-icon class="ml-2">mdi-delete</v-icon>
                 </template>
 
                 <v-list-item-title>Limpar a casa</v-list-item-title>
@@ -42,6 +43,7 @@
                 </template>
                 <template #append>
                   <v-icon>mdi-pencil</v-icon>
+                  <v-icon class="ml-2">mdi-delete</v-icon>
                 </template>
 
                 <v-list-item-title
@@ -57,6 +59,7 @@
                 </template>
                 <template #append>
                   <v-icon>mdi-pencil</v-icon>
+                  <v-icon class="ml-2">mdi-delete</v-icon>
                 </template>
 
                 <v-list-item-title
